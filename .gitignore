@@ -1,1 +1,20 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 
+# Virtual environments
+venv/
+env/
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large data files (optional - you can keep ca-GrQc.txt since it's small)
+# data/*.csv
+# data/*.zip
